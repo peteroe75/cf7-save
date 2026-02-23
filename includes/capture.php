@@ -1,7 +1,7 @@
 <?php
 if (!defined('ABSPATH')) exit;
 
-add_action('wpcf7_mail_sent', function ($contact_form) {
+add_action('wpcf7_before_send_mail', function ($contact_form) {
 
     global $wpdb;
 
