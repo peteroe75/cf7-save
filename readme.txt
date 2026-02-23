@@ -7,5 +7,7 @@ Stable tag: 1.0.0
 
 Stores Contact Form 7 submissions in a custom table and displays them via shortcode.
 
+Fires before mail_send in CF7 so is resiliant against broken mailers. 
+
 Shortcode:
 [cf7_entries]
