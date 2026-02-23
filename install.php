@@ -22,4 +22,3 @@ function ml_cf7_install() {
     dbDelta($sql);
 }
 
-?>
