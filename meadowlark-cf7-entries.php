@@ -1,9 +1,11 @@
 <?php
 /*
-Plugin Name: Meadowlark CF7 Entries
-Description: Stores Contact Form 7 submissions in a custom table and displays via shortcode.
+Plugin Name: CF7-Save
+Description: Stores Contact Form 7 submissions in a custom table.
 Version: 1.0.0
 Author: Meadowlark IT
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 if (!defined('ABSPATH')) exit;
