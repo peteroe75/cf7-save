@@ -3,6 +3,7 @@ Contributors: Meadowlark IT
 Tags: contact form 7, logging
 Requires at least: 6.0
 Tested up to: 6.5
+Tested PHP 8.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 
